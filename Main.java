@@ -20,5 +20,11 @@ public class Main {
         redhead.performFly();
         redhead.performQuack();
         redhead.performSwim();
+
+        System.out.println("\n---- Rubber Duck ----");
+        rubber.display();
+        rubber.performFly();
+        rubber.performQuack();
+        rubber.performSwim();
     }
 }
