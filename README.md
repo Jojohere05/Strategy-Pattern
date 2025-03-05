@@ -47,7 +47,7 @@ This program follows **OOP principles** with encapsulated behaviors.
 ## **How to Run**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/StrategyPattern-DuckSimulation.git
+   git clone https://github.com/yourusername/StrategyPattern.git
 2. javac Main.java
 3. java Main
 
