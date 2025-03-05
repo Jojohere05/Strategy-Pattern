@@ -15,5 +15,10 @@ public class Main {
         mallard.performQuack();
         mallard.performSwim();
        
+        System.out.println("\n---- Redhead Duck ----");
+        redhead.display();
+        redhead.performFly();
+        redhead.performQuack();
+        redhead.performSwim();
     }
 }
