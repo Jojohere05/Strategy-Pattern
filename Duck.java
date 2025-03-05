@@ -16,6 +16,5 @@ public abstract class Duck {
     public void performSwim() {
         swimBehavior.swim();
     }
-
-
+    public abstract void display();
 }
